@@ -1,0 +1,5 @@
+# rubygem-rspec requires version (~> 3.3.0)
+# check: https://rubygems.org/gems/rspec/versions/3.3.0
+# rubygem-rspec-its requires version (>= 3.0.0)
+# check: https://rubygems.org/gems/rspec-its/versions/1.2.0
+watchurl=https://rubygems.org/gems/rspec-core/versions/(3.3.[\d.]*)
