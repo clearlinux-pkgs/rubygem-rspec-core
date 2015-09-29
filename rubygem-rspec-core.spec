@@ -4,7 +4,7 @@
 #
 Name     : rubygem-rspec-core
 Version  : 3.3.2
-Release  : 8
+Release  : 9
 URL      : https://rubygems.org/downloads/rspec-core-3.3.2.gem
 Source0  : https://rubygems.org/downloads/rspec-core-3.3.2.gem
 Summary  : No detailed summary available
